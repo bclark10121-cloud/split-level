@@ -1,17 +1,18 @@
 # Split Level (N18): backlog
 
-Updated 2026-11-22. BC decides the order.
+Updated 2026-11-22, 3:15 PM. BC decides the order.
 
 ## Done
 
 - 2026-11-22: reference review, name check, MVP plan, brief and house reference written. 45 of BC's photos of the upper level saved to `photos/raw/` (private).
+- 2026-11-22, 3:10 PM: 0.1.0 The doors shipped. Gray box of the true upper level, first-person walk, doors onto new rooms, bands Home and Off with six changes, the door count, saves at every door.
 - 2026-11-22, 1:45 PM: plan and brief v2 after BC's notes. Doors and weirder rooms replace the lap rule. Name Split Level. The cat is in. Endless.
 
 ## Now
 
-1. BC says yes to `BRIEF.md` (v2).
-2. Look and sound decision page (G0.16): APK icon, the cat's look, start screen scene, colors, title font, title track, game music, sound style, Game Shelf picture, controls, tagline.
-3. Release 0.1 The doors: gray box of the true upper level, first-person walk, doors onto new rooms, bands 0 and 1, the door count.
+1. Look and sound decision page (G0.16): APK icon, the cat's look, start screen scene, colors, title font, title track, game music, sound style, Game Shelf picture, controls, tagline.
+2. BC's notes on 0.1: room sizes, how the doors and touch feel.
+3. Release 0.2 The look: his photos on every upper level room, light, room sound, the cat.
 
 ## Asked for by BC, not built yet
 
@@ -56,4 +57,5 @@ Updated 2026-11-22. BC decides the order.
 - 2026-11-22, 1:08 to 1:17 PM: sent his own photos of the upper level, room by room.
 - 2026-11-22, 1:18 PM: "lower level later, you can start now".
 - 2026-11-22, 1:36 PM: "I want to find new rooms as I open doors and they keep getting weirder. the inital few rooms are my house, but they keep changing as new doors are opening." "Split Level is a good name". "Keep the black cat". "you can use any of the photos from zillow or what i uploaded".
+- 2026-11-22, 1:41 PM: "yes move forward with your best judgement". Brief v2 approved.
 - 2026-11-22, 1:39 PM: endless only. A different room when going back through a door.
