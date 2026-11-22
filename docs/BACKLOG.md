@@ -1,26 +1,27 @@
 # Split Level (N18): backlog
 
-Updated 2026-11-22, 3:15 PM. BC decides the order.
+Updated 2026-11-22, 5:45 PM. BC decides the order.
 
 ## Done
 
 - 2026-11-22: reference review, name check, MVP plan, brief and house reference written. 45 of BC's photos of the upper level saved to `photos/raw/` (private).
+- 2026-11-22, 5:45 PM: 0.2.0 The look shipped. Photo textures on every room, warmer light, room sound and footsteps, the black cat with Here Kitty and Nine Lives, the new start screen of the landing, music.
 - 2026-11-22, 3:10 PM: 0.1.0 The doors shipped. Gray box of the true upper level, first-person walk, doors onto new rooms, bands Home and Off with six changes, the door count, saves at every door.
 - 2026-11-22, 1:45 PM: plan and brief v2 after BC's notes. Doors and weirder rooms replace the lap rule. Name Split Level. The cat is in. Endless.
 
 ## Now
 
-1. Look and sound decision page (G0.16): APK icon, the cat's look, start screen scene, colors, title font, title track, game music, sound style, Game Shelf picture, controls, tagline.
-2. BC's notes on 0.1: room sizes, how the doors and touch feel.
-3. Release 0.2 The look: his photos on every upper level room, light, room sound, the cat.
+1. BC's picks on the look and sound page: https://bclark10121-cloud.github.io/bc-decisions/2026-11-22-split-level-look-and-sound/ Then swap them in (icon, title font, colors and the rest).
+2. BC's notes on 0.2: how the house looks next to the real one, the cat, the sound.
+3. Release 0.3: the next area BC picks on the page (Recommended: the lower level).
 
 ## Asked for by BC, not built yet
 
-- B1. Mirror his home (2026-11-22). The first rooms are his house.
+- B1. Mirror his home (2026-11-22). The first rooms are his house. Upper level in since 0.2.0.
 - B2. New rooms behind every door, weirder and weirder (2026-11-22, 1:36 PM).
 - B3. Endless. The record is the deepest door (2026-11-22, 1:39 PM).
 - B4. A different room when you go back through a door (2026-11-22, 1:39 PM).
-- B5. Keep the black cat (2026-11-22, 1:36 PM).
+- B5. Keep the black cat (2026-11-22, 1:36 PM). In since 0.2.0.
 - B6. Bare rooms first (2026-11-22). Furniture later, if at all.
 - B7. Lower level rooms. Waiting on his photos ("lower level later").
 
@@ -58,4 +59,5 @@ Updated 2026-11-22, 3:15 PM. BC decides the order.
 - 2026-11-22, 1:18 PM: "lower level later, you can start now".
 - 2026-11-22, 1:36 PM: "I want to find new rooms as I open doors and they keep getting weirder. the inital few rooms are my house, but they keep changing as new doors are opening." "Split Level is a good name". "Keep the black cat". "you can use any of the photos from zillow or what i uploaded".
 - 2026-11-22, 1:41 PM: "yes move forward with your best judgement". Brief v2 approved.
+- 2026-11-22, 3:45 PM: "move on to next release". 0.2 The look started.
 - 2026-11-22, 1:39 PM: endless only. A different room when going back through a door.

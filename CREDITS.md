@@ -4,7 +4,9 @@ Split Level is an original game. The house, the rooms, the doors and the room ch
 
 ## Music
 
-- The start screen track is a stand-in made for the studio's starter game. Real music comes with the look and sound picks.
+- Start screen: "Comfortable Mystery" by Kevin MacLeod (incompetech.com, https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100287), licensed Creative Commons Attribution 4.0 International (https://creativecommons.org/licenses/by/4.0/). Found through the Patch.gg library. Changed for this game: the first 2 minutes, with a fade in and out, made quieter to match the game.
+- While you walk: "Clean Soul" by Kevin MacLeod (incompetech.com, https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1300033), licensed Creative Commons Attribution 4.0 International (https://creativecommons.org/licenses/by/4.0/). Found through the Patch.gg library. Changed for this game: the first 3 minutes, with a fade in and out, made quieter to match the game.
+- Both are the Recommended picks on the look and sound page and change if BC picks others.
 
 ## Sounds
 
