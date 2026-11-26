@@ -11,7 +11,9 @@ Split Level is an original game. The house, the rooms, the doors and the room ch
 ## Sounds
 
 - The door latch, the door close and the menu sounds are made in code for this game (`tools/make_door_sfx.py` and the starter's sound tool).
+- The find chime, when you pick up a keepsake, is made in code for this game (`tools/make_find_sfx.py`).
 
 ## Fonts and code
 
+- Title font: Space Mono Bold, Copyright 2016 The Space Mono Project Authors, licensed under the SIL Open Font License 1.1 (https://openfontlicense.org). The licence ships with the font as `fonts/OFL-SpaceMono.txt`.
 - Godot Engine 4.7.2, MIT licence. https://godotengine.org/license

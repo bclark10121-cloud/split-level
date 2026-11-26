@@ -1,9 +1,10 @@
 # Split Level (N18): backlog
 
-Updated 2026-11-22, 5:45 PM. BC decides the order.
+Updated 2026-11-25. BC decides the order.
 
 ## Done
 
+- 2026-11-25: 0.3.0 Weirder shipped. Bands 2 to 4 with 44 changes, four made rooms plus dining and closet, 20 keepsakes, the room book, daily goals, Gentle rooms, four achievements, the door-and-cat icon, the Space Mono title and tagline, the upright start screen framing.
 - 2026-11-22: reference review, name check, MVP plan, brief and house reference written. 45 of BC's photos of the upper level saved to `photos/raw/` (private).
 - 2026-11-22, 5:45 PM: 0.2.0 The look shipped. Photo textures on every room, warmer light, room sound and footsteps, the black cat with Here Kitty and Nine Lives, the new start screen of the landing, music.
 - 2026-11-22, 3:10 PM: 0.1.0 The doors shipped. Gray box of the true upper level, first-person walk, doors onto new rooms, bands Home and Off with six changes, the door count, saves at every door.
@@ -11,9 +12,9 @@ Updated 2026-11-22, 5:45 PM. BC decides the order.
 
 ## Now
 
-1. BC's picks on the look and sound page: https://bclark10121-cloud.github.io/bc-decisions/2026-11-22-split-level-look-and-sound/ Then swap them in (icon, title font, colors and the rest).
-2. BC's notes on 0.2: how the house looks next to the real one, the cat, the sound.
-3. Release 0.3: the next area BC picks on the page (Recommended: the lower level).
+1. BC's notes on 0.3.0 (which rooms felt the most wrong in a good way, which felt too much).
+2. The lower level (needs BC's lower level photos).
+3. Kit fix to propose for `common/`: the toast note stays 0 x 0 and draws off screen. Split Level works around it in `main.gd`. The fix touches every game.
 
 ## Asked for by BC, not built yet
 
@@ -39,6 +40,13 @@ Updated 2026-11-22, 5:45 PM. BC decides the order.
 10. A change editor in the debug menu so BC writes his own weird rooms.
 11. N15's office as a second set of shells, reached from deep in the house.
 
+## From the 0.3.0 review (notes, BC picks)
+
+- A brightness check across many seeds, not only the sample rooms in the look checks.
+- Doors on the ceiling are flat trim that never opens. Some players may try to reach them.
+- Three changes almost never come up (bath fireplace, laundry dining, closet stairs, about 4 in 5,000 doors).
+- Gentle rooms filters the band picks only. A forced pick from Tester tools can skip it.
+
 ## Later
 
 - Phone 3D scans of one room as a test against the built rooms.
@@ -60,4 +68,8 @@ Updated 2026-11-22, 5:45 PM. BC decides the order.
 - 2026-11-22, 1:36 PM: "I want to find new rooms as I open doors and they keep getting weirder. the inital few rooms are my house, but they keep changing as new doors are opening." "Split Level is a good name". "Keep the black cat". "you can use any of the photos from zillow or what i uploaded".
 - 2026-11-22, 1:41 PM: "yes move forward with your best judgement". Brief v2 approved.
 - 2026-11-22, 3:45 PM: "move on to next release". 0.2 The look started.
+- 2026-11-22, 5:26 PM: "the hum is fine". Room tone and fridge loops off the kit player (override 1).
+- 2026-11-22, 5:55 PM: "move to the next release". 0.3 Weirder started.
+- 2026-11-22, 7:48 PM: "Move forward using your best judgement". The Recommended look and sound picks are in.
+- 2026-11-22, 9:05 PM: stopping point. 0.3 built, release next time.
 - 2026-11-22, 1:39 PM: endless only. A different room when going back through a door.
